@@ -6,42 +6,61 @@
 
 ### Ubuntu:
 
-![Descarga imagen ubuntu](/imagenes/descargarUbuntu.png)
+![Texto alternativo](/imagenes/descargarUbuntu.png)
 
 ### mysql
 
-![Descarga imagen ubuntu](/imagenes/descargarMysql.png)
+![Texto alternativo](/imagenes/descargarMysql.png)
 
 ### httpd
 
-![Descarga imagen ubuntu](/imagenes/descargarHttpd.png)
+![Texto alternativo](/imagenes/descargarHttpd.png)
 
 ### php
 
-![Descarga imagen ubuntu](/imagenes/descargarPhp.png)
+![Texto alternativo](/imagenes/descargarPhp.png)
 
 ### centos
 
-![Descarga imagen ubuntu](/imagenes/descargarCentos.png)
+![Texto alternativo](/imagenes/descargarCentos.png)
 
 ### debian
 
-![Descarga imagen ubuntu](/imagenes/descargarDebian.png)
+![Texto alternativo](/imagenes/descargarDebian.png)
 
 ### mariadb
 
-![Descarga imagen ubuntu](/imagenes/descargarMariadb.png)
+![Texto alternativo](/imagenes/descargarMariadb.png)
 
 ### tomcat
 
-![Descarga imagen ubuntu](/imagenes/descargarTomcat.png)
+![Texto alternativo](/imagenes/descargarTomcat.png)
 
 ### jenkins
 
-![Descarga imagen ubuntu](/imagenes/descargarJenkins.png)
+![Texto alternativo](/imagenes/descargarJenkins.png)
 
 ### Comprobar que estan todas descargadas:
 
-![Descarga imagen ubuntu](/imagenes/descargasComprobacion.png)
+![Texto alternativo](/imagenes/descargasComprobacion.png)
 
+# Tarea 2.3 
 
+## Arrancar un contenedor de la imagen ubuntu:18.04 al que llamaremos ubuntu. Una vez arrancado realizar las siguiente operaciones
+
+![Texto alternativo](/imagenes/arrancarUbuntu.png)
+ 
+## Salir del contenedor y capturar un pantallazo donde se pueda comprobar que ese
+contenedor se ha parado
+
+![Texto alternativo](/imagenes/salirUbuntu.png)
+
+## Rearrancar el contenedor desde tu equipo y capturar un pantallazo donde se pueda
+comprobar que está funcionando
+
+![Texto alternativo](/imagenes/arrancarUbuntu2.png)
+
+## Sin entrar en el contenedor, mostrar por pantalla el fichero /etc/os-release y capturar un
+pantallazo del resultado
+
+![Texto alternativo](/imagenes/ejecutarCatUbuntu.png)
