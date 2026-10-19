@@ -2,65 +2,65 @@
 
 # Tarea 2.2
 
-## Descargar Imagenes
+### Descargar Imagenes
 
-### Ubuntu:
+#### Ubuntu:
 
 ![Texto alternativo](/imagenes/descargarUbuntu.png)
 
-### mysql
+#### mysql
 
 ![Texto alternativo](/imagenes/descargarMysql.png)
 
-### httpd
+#### httpd
 
 ![Texto alternativo](/imagenes/descargarHttpd.png)
 
-### php
+#### php
 
 ![Texto alternativo](/imagenes/descargarPhp.png)
 
-### centos
+#### centos
 
 ![Texto alternativo](/imagenes/descargarCentos.png)
 
-### debian
+#### debian
 
 ![Texto alternativo](/imagenes/descargarDebian.png)
 
-### mariadb
+#### mariadb
 
 ![Texto alternativo](/imagenes/descargarMariadb.png)
 
-### tomcat
+#### tomcat
 
 ![Texto alternativo](/imagenes/descargarTomcat.png)
 
-### jenkins
+#### jenkins
 
 ![Texto alternativo](/imagenes/descargarJenkins.png)
 
-### Comprobar que estan todas descargadas:
+#### Comprobar que estan todas descargadas:
 
 ![Texto alternativo](/imagenes/descargasComprobacion.png)
 
 # Tarea 2.3 
 
-## Arrancar un contenedor de la imagen ubuntu:18.04 al que llamaremos ubuntu. Una vez arrancado realizar las siguiente operaciones
+### Arrancar un contenedor de la imagen ubuntu:18.04 al que llamaremos ubuntu. Una vez arrancado realizar las siguiente operaciones
 
 ![Texto alternativo](/imagenes/arrancarUbuntu.png)
  
-## Salir del contenedor y capturar un pantallazo donde se pueda comprobar que ese
+### Salir del contenedor y capturar un pantallazo donde se pueda comprobar que ese
 contenedor se ha parado
 
 ![Texto alternativo](/imagenes/salirUbuntu.png)
 
-## Rearrancar el contenedor desde tu equipo y capturar un pantallazo donde se pueda
+### Rearrancar el contenedor desde tu equipo y capturar un pantallazo donde se pueda
 comprobar que está funcionando
 
 ![Texto alternativo](/imagenes/arrancarUbuntu2.png)
 
-## Sin entrar en el contenedor, mostrar por pantalla el fichero /etc/os-release y capturar un
+### Sin entrar en el contenedor, mostrar por pantalla el fichero /etc/os-release y capturar un
 pantallazo del resultado
 
 ![Texto alternativo](/imagenes/ejecutarCatUbuntu.png)
