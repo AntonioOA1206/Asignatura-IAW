@@ -64,3 +64,15 @@ comprobar que está funcionando
 pantallazo del resultado
 
 ![Texto alternativo](/imagenes/ejecutarCatUbuntu.png)
+
+# Tarea 2.4
+
+### Arranca un contenedor que ejecute una instancia de la imagen php:7.3-apache, que se
+llame web y que sea accesible desde tu equipo en el puerto 8181
+
+### Colocar en el directorio raiz del servicio web de dicho contenedor un fichero llamado index.html con el siguiente contenido:
+``` <h1>HOLA SOY TUNOMBRE</h1>```
+
+
+### Colocar en ese mismo directorio raiz un archivo llamado index.php con el siguiente contenido:
+```<?php phpinfo(); ?>```
