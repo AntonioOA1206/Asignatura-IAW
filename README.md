@@ -6,96 +6,96 @@
 
 #### Ubuntu:
 
-![Texto alternativo](/imagenes/descargarUbuntu.png)
+![Texto alternativo](/imagenes/tema2/descargarUbuntu.png)
 
 #### mysql
 
-![Texto alternativo](/imagenes/descargarMysql.png)
+![Texto alternativo](/imagenes/tema2/descargarMysql.png)
 
 #### httpd
 
-![Texto alternativo](/imagenes/descargarHttpd.png)
+![Texto alternativo](/imagenes/tema2/descargarHttpd.png)
 
 #### php
 
-![Texto alternativo](/imagenes/descargarPhp.png)
+![Texto alternativo](/imagenes/tema2/descargarPhp.png)
 
 #### centos
 
-![Texto alternativo](/imagenes/descargarCentos.png)
+![Texto alternativo](/imagenes/tema2/descargarCentos.png)
 
 #### debian
 
-![Texto alternativo](/imagenes/descargarDebian.png)
+![Texto alternativo](/imagenes/tema2/descargarDebian.png)
 
 #### mariadb
 
-![Texto alternativo](/imagenes/descargarMariadb.png)
+![Texto alternativo](/imagenes/tema2/descargarMariadb.png)
 
 #### tomcat
 
-![Texto alternativo](/imagenes/descargarTomcat.png)
+![Texto alternativo](/imagenes/tema2/descargarTomcat.png)
 
 #### jenkins
 
-![Texto alternativo](/imagenes/descargarJenkins.png)
+![Texto alternativo](/imagenes/tema2/descargarJenkins.png)
 
 #### Comprobar que estan todas descargadas:
 
-![Texto alternativo](/imagenes/descargasComprobacion.png)
+![Texto alternativo](/imagenes/tema2/descargasComprobacion.png)
 
 # Tarea 2.3 
 
 ### Arrancar un contenedor de la imagen ubuntu:18.04 al que llamaremos ubuntu. Una vez arrancado realizar las siguiente operaciones
 
-![Texto alternativo](/imagenes/arrancarUbuntu.png)
+![Texto alternativo](/imagenes/tema2/arrancarUbuntu.png)
  
 ### Salir del contenedor y capturar un pantallazo donde se pueda comprobar que ese
 contenedor se ha parado
 
-![Texto alternativo](/imagenes/salirUbuntu.png)
+![Texto alternativo](/imagenes/tema2/salirUbuntu.png)
 
 ### Rearrancar el contenedor desde tu equipo y capturar un pantallazo donde se pueda
 comprobar que está funcionando
 
-![Texto alternativo](/imagenes/arrancarUbuntu2.png)
+![Texto alternativo](/imagenes/tema2/arrancarUbuntu2.png)
 
 ### Sin entrar en el contenedor, mostrar por pantalla el fichero /etc/os-release y capturar un
 pantallazo del resultado
 
-![Texto alternativo](/imagenes/ejecutarCatUbuntu.png)
+![Texto alternativo](/imagenes/tema2/ejecutarCatUbuntu.png)
 
 # Tarea 2.4
 
 ### Arranca un contenedor que ejecute una instancia de la imagen php:7.3-apache, que se llame web y que sea accesible desde tu equipo en el puerto 8181
 
-![Texto alternativo](/imagenes/arrancarPhp.png)
+![Texto alternativo](/imagenes/tema2/arrancarPhp.png)
 
 ### Colocar en el directorio raiz del servicio web de dicho contenedor un fichero llamado index.html con el siguiente contenido:
 ``` <h1>HOLA SOY TUNOMBRE</h1>```
 
-![Texto alternativo](/imagenes/colocarIndex.png)
+![Texto alternativo](/imagenes/tema2/colocarIndex.png)
 
 ### Colocar en ese mismo directorio raiz un archivo llamado index.php con el siguiente contenido:
 ```<?php phpinfo(); ?>```
 
-![Texto alternativo](/imagenes/colocarPhp.png)
+![Texto alternativo](/imagenes/tema2/colocarPhp.png)
 
 ### Arrancar un contenedor que se llame bbdd y que ejecute una instancia de la imagen mariadb para que sea accesible desde el puerto 3336.
 
-![Texto alternativo](/imagenes/comandoBbdd.png)
+![Texto alternativo](/imagenes/tema2/comandoBbdd.png)
 
 #### Comprobacion del index
 
-![Texto alternativo](/imagenes/comprobarIndex.png)
+![Texto alternativo](/imagenes/tema2/comprobarIndex.png)
 
 #### Comprobacion php
 
-![Texto alternativo](/imagenes/comprobarPhp.png)
+![Texto alternativo](/imagenes/tema2/comprobarPhp.png)
 
 #### Ultima comprobacion
 
-![Texto alternativo](/imagenes/ultimaComprobacion.png)
+![Texto alternativo](/imagenes/tema2/ultimaComprobacion.png)
 
 # Tarea 2.5
 
@@ -103,16 +103,16 @@ pantallazo del resultado
 
 #### Dirección IP del contenedor web
 
-![Texto alternativo](/imagenes/direccionIP.png)
+![Texto alternativo](/imagenes/tema2/direccionIP.png)
 
 #### Redirección de puertos del contenedor web
 
-![Texto alternativo](/imagenes/redireccionPuertos.png)
+![Texto alternativo](/imagenes/tema2/redireccionPuertos.png)
 
 #### Dirección IP del contenedor bbdd
 
-![Texto alternativo](/imagenes/direccionIP2.png)
+![Texto alternativo](/imagenes/tema2/direccionIP2.png)
 
 #### Redirección de puertos del contenedor bbdd
 
-![Texto alternativo](/imagenes/redireccionPuertos2.png)
+![Texto alternativo](/imagenes/tema2/redireccionPuertos2.png)
